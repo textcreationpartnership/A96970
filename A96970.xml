@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a foolish pamphlet entituled A swarme of sectaries &amp; schismaticks. Put forth by John Taylor the water-poet. Wherein is set downe 1. An epistle to John Taylor. 2. Iohn Taylors armes, blazed by Fennor. 3. George Hattons lines sent to Iohn Taylor. 4. The view of his long silence. 5. The view of his writing this booke. 6. A view of the title. 7. A view of Iohn Taylor in the tub. 8. A view of his Puritans. 9. A view of his hypocrisie. 10. An exhortation to Iohn Taylor to repent.</title>
+            <author>Walker, Henry, Ironmonger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96970</idno>
+            <idno type="STC">Wing W368</idno>
+            <idno type="STC">Thomason E160_15</idno>
+            <idno type="STC">ESTC R1332</idno>
+            <idno type="EEBO-CITATION">99859457</idno>
+            <idno type="PROQUEST">99859457</idno>
+            <idno type="VID">156918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156918)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a foolish pamphlet entituled A swarme of sectaries &amp; schismaticks. Put forth by John Taylor the water-poet. Wherein is set downe 1. An epistle to John Taylor. 2. Iohn Taylors armes, blazed by Fennor. 3. George Hattons lines sent to Iohn Taylor. 4. The view of his long silence. 5. The view of his writing this booke. 6. A view of the title. 7. A view of Iohn Taylor in the tub. 8. A view of his Puritans. 9. A view of his hypocrisie. 10. An exhortation to Iohn Taylor to repent.</title>
+                  <author>Walker, Henry, Ironmonger.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Walker. Cf.--NUC-pre 1956.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, John, 1580-1653. --  Swarme of sectaries &amp; schismaticks.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156918:1"/>
+            <pb facs="tcp:156918:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO A FOOLISH PAMPHLET ENTITVLED A ſwarme of Sectaries &amp; Schiſmaticks.</p>
+            <p>Put forth by <hi>John Taylor</hi> the Water-Poet.</p>
+            <p>Wherein is ſet downe
+<list>
+                  <item>1. An Epiſtle to John Taylor.</item>
+                  <item>2. Iohn Taylors Armes, blazed by <hi>Fennor.</hi>
+                  </item>
+                  <item>3. <hi>George Hattons</hi> lines ſent to <hi>Iohn Taylor.</hi>
+                  </item>
+                  <item>4. The view of his long ſilence.</item>
+                  <item>5. The view of his writing this Booke.</item>
+                  <item>6. A view of the Title.</item>
+                  <item>7. A view of <hi>Iohn Taylor</hi> in the TUB.</item>
+                  <item>8. A view of his Puritans.</item>
+                  <item>9. A view of his Hypocriſie.</item>
+                  <item>10. An Exhortation to <hi>Iohn Taylor</hi> to repent.</item>
+               </list>
+            </p>
+            <p>Printed in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156918:2"/>
+            <head>An Epiſtle to <hi>Iohn Taylor</hi> the Water Poet.</head>
+            <opener>
+               <salute>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Taylor,</salute>
+            </opener>
+            <p>AFter a Supper of ſlanders, give me leave to return a B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nquet of defence; I am ſorry that my pen is pluck't back from other occaſions, to anſwere an oppo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te ſo ignoble: but ſeeing Religion ſhot at by ſuch a poyſoned <hi>Piſtoll;</hi> I thought it meet to ſerue out the bul<g ref="char:EOLhyphen"/>let of thy infamie before it grew rank, or feſtred too farre in the worlds apprehenſion. But all that I ſhall ſay to thee in this Epiſtle more, is onely to call thee back, to thy old <hi>A. B. C.</hi> long ſince ſet thee by an old acquaintance of thine to an <hi>Anagramme,</hi> that thy ſelfe writ of his name.
+<q>
+                  <l>My Anagramme if thou but rightly fear,</l>
+                  <l>Then thou wilt find, 'tis I will feare no man,</l>
+                  <l>How can I then feare thee that art a Taylor,</l>
+                  <l>A ſhred of fuſtian, and a ragged Raylor;</l>
+                  <l>A diſh that is not worth the ſeeding on,</l>
+                  <l>When thou art beſt in Lent th'art but poore Iohn.</l>
+               </q>
+            </p>
+            <div type="poem">
+               <head>The Armes of John Taylor the Water-poet, blazed according to the old Coppy.</head>
+               <l>And firſt becauſe all ſculls thou doſt excell,</l>
+               <l>A ſilver care will for thy Creſt doe well,</l>
+               <l>A paire of armes bound in a ſable ſcarfe,</l>
+               <l>In a ſad field as large as Wapping-wharfe:</l>
+               <l>Out of the wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er ſhall appeare one dead,</l>
+               <l>A halter, and a croſſe barre o're his head,</l>
+               <l>And on his ſhield this Motto ſhall be found,</l>
+               <l>Taylor the ſculler was both hang'd and drown'd:</l>
+               <l>In all this blazing thee no hurt I meane,</l>
+               <l>But hang thee till the tide hath waſht thee cleane.</l>
+            </div>
+            <div type="poem">
+               <pb n="2" facs="tcp:156918:2"/>
+               <head>To John Taylor the Water-poet.</head>
+               <l>When a freſh water-man doth turne ſalt Poet;</l>
+               <l>His Muſe muſt prattle, all the world muſt know it,</l>
+               <l>Of whore and thiefe, he writes two merry bookes,</l>
+               <l>Hee loves them both, J know it by his lookes.</l>
+               <closer>
+                  <signed>G. H.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>John Taylors lying ſtill.</head>
+               <p>Not I alone (but many more) have wondered that <hi>Iohn Taylor</hi> hath of late bin crouded from the Preſſe by theſe young Poets; ſurely he hath mourned to ſee theſe times, and fearing Reformation, thought it the beſt policy to hold his peace; leſt his pen betray his diſſembling heart, &amp; ſo the times chance to correct his knavery, and he feele the ſmart of his laſcivious life; for ſuch wanton trickes as he uſed when he made the Poet almoſt feare that hee—came too neare his wife, when he ſaid to him.
+<q>
+                     <l>But yet I wonder ſince thou hateſt my life,</l>
+                     <l>Thou ſhouldſt profeſſe ſuch kindneſſe to my wife,</l>
+                     <l>If thy hote love without deceit be fervent,</l>
+                     <l>My Kitchin maid ſhall take thee for her ſervant;</l>
+                     <l>For all the love that from my wife proceedes,</l>
+                     <l>Is ſcorning of thy perſon and thy deedes.</l>
+                  </q>
+               </p>
+               <p>Such tricks as theſe may well prevaile to keepe an idle laſcivious, drunken Poets lines from the Preſſe, ſuch happy times as theſe.</p>
+               <p>But ſtay! <hi>Iohn Taylor</hi> hath taken courage: he hath writ a booke, and oh how <hi>Papiſts</hi> laugh at it, and commend it, and they are very glad to ſee him begin to peepe out; well let him take heed, leſt he peepe through a wooden caſe<g ref="char:EOLhyphen"/>ment in <hi>Cheape-ſide,</hi> or elſe faire worſe in a cart, with a breakfaſt with young <hi>Gregorie.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The cauſe why he writ.</head>
+               <p>
+                  <hi>Iohn Taylor</hi> was, a while ſince, invited to dine with his old friend the Biſhop of <hi>Canterbury</hi> in the Tower, and oh
+<pb n="3" facs="tcp:156918:3"/> how he made his little gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce laugh, with telling of him ſtrange ſtories; <hi>Iohn</hi> c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n cut out <hi>Browniſts,</hi> and <hi>Puritans</hi> into ſhreds at his pleaſure, though he have his own Religi<g ref="char:EOLhyphen"/>on to chooſe, indeed he hath ſaid to ſome, that they had as good to deale with the Divell, as with him, which wee ſee verified in him, by his baſe ſcandalous lines, which were long ſince reproved thus.
+<q>
+                     <l>How Raſcall-like thou dealeſt at the firſt,</l>
+                     <l>Thou ſhew'ſt from what a<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tiquitie th' art nurs't:</l>
+                     <l>But I will ſpare thee thou intemp'rate Aſſe,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>ntill in Bridewell thou ſhalt currant paſſe.</l>
+                  </q>
+               </p>
+               <p>What hath the Biſhop of <hi>Canterbury</hi> rub'd up the cou<g ref="char:EOLhyphen"/>rage, to put thy rayling lines in print, againſt thou know'ſt not whom nor what? No marvell though his Arch-Grace told <hi>John Taylor,</hi> that he wonder'd he would not viſit his wine ofter; is this booke his recompence for thy friendly entertainment?</p>
+            </div>
+            <div type="part">
+               <head>An Anſwer to his title.</head>
+               <p>The title pretends to diſcover Sects, and Schiſmes, but the booke runs (for the moſt part) of another matter, ſure he thought he had bin at his old worke, <hi>the world runs on wheeles;</hi> he writes of kiſſing, and whoring, and ſuch ribble and rabble of his own braine: ah <hi>Iohn,</hi> old Rats love cheeſe. Doſt thou think thou loſeſt thy living, when thou haſt not thy fare of threeſcore whores in a day: doth this enable Poets to do the Kingdome good ſervice? What, wilt thou again lament the loſſe of thoſe dayes, wherein thou haſt at<g ref="char:EOLhyphen"/>tended the whole fry of famous whores, to ayre themſelves by waters?</p>
+            </div>
+            <div type="part">
+               <head>Of the picture in the title of his Booke.</head>
+               <p>I did firſt conceive that fellow in the Tub to be <hi>Iohn Taylor</hi> the Poet, having ſtayed ſo long with the Biſhop of <hi>Canterbury,</hi> untill at laſt he ſaw one veſſell of Sack drawne dry, and then brake out the head of the Tub to tumble in,
+<pb n="4" facs="tcp:156918:3"/> and falling aſleepe was almoſt ſtifled in the Lees; crying out to Sam t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Vintners</hi> boy in the Tower, to helpe him; crying <hi>Sam:</hi> How, come and helpe me out, and all the peo<g ref="char:EOLhyphen"/>ple flocking about him, <hi>ſee how he ſtands like a drown'd mouſe.</hi> But for all this, when the Biſhop comes to his grace<g ref="char:EOLhyphen"/>ſhip againe, hee'le give <hi>John</hi> a good penſion, but I hope hee ſhall ne're ſee it. Long ſince did that Satyr proteſt thus againſt him.
+<q>
+                     <l>
+                        <hi>I</hi> to my Countrey do commend my love and skill,</l>
+                     <l>To roote out all ſuch<note n="*" place="margin">Iohn Tailor and his Ad<g ref="char:EOLhyphen"/>herents,</note> inſtruments of ill.</l>
+                  </q>
+               </p>
+               <p>This, ſaith he, was printed luckily, and you ſee that it may be read unhappily.</p>
+            </div>
+            <div type="part">
+               <head>The Knaves Puritan.</head>
+               <p>The Captaine and firſt frontier of the ſwarme he brings in to be the Knaves Puritan<g ref="char:punc">▪</g> or if you will <hi>John Taylors op<g ref="char:EOLhyphen"/>poſite,</hi> that abhors ſin, and deteſts all ſuch corrupt company.</p>
+               <q>
+                  <l>Who ſtriving God to feare, and ſerve the beſt he can,</l>
+                  <l>The Poet is a knave t'abuſe this Puritan.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>The Knave Puritan.</head>
+               <p>What is the Poet mad to lay the rod in piſſe, that muſt laſh his owne fat knaviſh buttocks; to deſcribe the knave Puritan (as hee calls him) to bee ſo like his owne picture? Surely did not the <hi>Printer</hi> miſtake, and put in <hi>Puritan</hi> in<g ref="char:EOLhyphen"/>ſtead of Poet? Well a <hi>Croyden</hi> Scholler once began to tum<g ref="char:EOLhyphen"/>ble Hell for <hi>Taylors</hi> ſhreds that are throwne out of ſight: though ſomething obſcurely, when he ſaid he read his ver<g ref="char:EOLhyphen"/>ſes to me, and which more is, did move my Muſe to write <hi>Laudem Auditories.</hi>
+               </p>
+               <q>
+                  <l>If for his Land Diſcoveries, ſhe ſhould praiſe him,</l>
+                  <l>Whether would then this liquid knowledge raiſe him?</l>
+                  <pb n="5" facs="tcp:156918:4"/>
+                  <l>Reade his two Treatiſes of thiefe and whore,</l>
+                  <l>You'l thinke it time for him to leave his Oare;</l>
+                  <l>Yet thus much of his worth I cannot ſmother,</l>
+                  <l>'Tis well for us, when thieves peach one another.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>To he that will.</head>
+               <p>In the firſt place <hi>John Taylor</hi> would have the Readers to underſtand that his Muſe is no further Muſicall, then it runs diviſion; and ſo it is in very deed; for one while he derides thoſe that deride true Religion as Atheiſtes, and by and by, he (like a ſubſtantiall Papiſt) derides the Con<g ref="char:EOLhyphen"/>temners of Popiſh rights as Heretikes, and while he pre<g ref="char:EOLhyphen"/>tends reverence to truth, and preſently againe he applauds foule Errors; this indeed is truely called by himſelfe <hi>di<g ref="char:EOLhyphen"/>viſion,</hi> whereby he unmaskes his owne Hypocriſie. Thou talkeſt much of preaching, but when doſt thou either heare the word of God preached to thee, or when doſt thou pray? One writ the word long ſince;
+<q>
+                     <l>That thou that of mans life art no eſteemer,</l>
+                     <l>What mercy canſt thou hope from thy Redeemer?</l>
+                     <l>Say theſe had wrong'd thee, thou good names betrayer,</l>
+                     <l>Thou calleſt for vengeance in thy Saviours prayer;</l>
+                     <l>I will not ſay ſo, but it doth appeare,</l>
+                     <l>Thou ſcarſe doſt ſay thy prayers once a yeare.</l>
+                  </q>
+               </p>
+               <p>How lightly doth he eſteeme of pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching: when as he compares it to the hangings in a L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dies bed-chamber, and I know not what, ſurely this he rub'd up out of his memory, ſince he played the B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wd, expreſſing himſelfe, how the wandring ſight brought home, into the very bed-chamber of the heart, amorous actions, effeminate glances, pictures of proſtitution, and Veneriall vanities, he brings a rem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce (which was long ſince commended) before his eyes and preſents it to others, to t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke warning by Achitophell.
+<q>
+                     <pb n="6" facs="tcp:156918:4"/>
+                     <l>But doſt thou thinke the matter is no more,</l>
+                     <l>But hang themſelves? Thy Counſell they abhorre.</l>
+                     <l>But take thou heed of this inchanted ſpell,</l>
+                     <l>John Taylor ended like Achitophell.</l>
+                     <l>What fooliſh Aſſe, like thee, would take in hand,</l>
+                     <l>To write of that thou canſt not unde<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtand?</l>
+                     <l>But deare <hi>T<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rlia</hi> in her <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iming fit</l>
+                     <l>Sung, thou wilt dye a foole for want of wit.</l>
+                     <l>But I am ſorry that thy credit's tainted,</l>
+                     <l>To make thee and thy Chandler unacquainted,</l>
+                     <l>VVill he now ſcore no more for egges and cheeſe,</l>
+                     <l>Becauſe he ſaw thy Hope upon her knees?</l>
+                     <l>For reputation thou canſt have no more</l>
+                     <l>Than in a bakers debt, or Ale-wives ſcore;</l>
+                     <l>And if thou be deny'd both bread and d<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inke,</l>
+                     <l>Thy writing, and thy lazie ſides will ſhrinke.</l>
+                     <l>J ſee thou art ſo bare and deſperate,</l>
+                     <l>Thou wouldſt turne Hangman to a<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vance thy ſtate,</l>
+                     <l>And hang up honeſt men, but they'l o're-match you,</l>
+                     <l>And ſtand to ſee an hempen halter catch you.</l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>Taylors ſhreds.</head>
+               <p>When this <hi>Taylor</hi> comes to ſpread his ſhreds abro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by piece-meale, hee falls into a furious rayling againſt this man, and that man, and J know not who, and theſe hee calls holy brethren, &amp; the women holy ſiſters, the lines are full of roguiſh Language, ſuch as <hi>Newgate</hi> teacheth: a friend of his was perſwaded long ſince, that he was tutor'd in the ſtewes, becauſe he is ſo perfect in their ſpeech, full of baſe roguiſh wiſhings, Curſes, and Revilings, tempeſtuous Rai<g ref="char:EOLhyphen"/>lings, and defiling mens good names, and though hee pro<g ref="char:EOLhyphen"/>teſted not long ſince that he would ſcorne to moleſt the name of the dead, expreſſing himſelfe that he conceived it to be a moſt inhumane thing, but let him looke upon his old <hi>Anagramme.</hi>
+                  <q>
+                     <pb n="7" facs="tcp:156918:5"/>
+                     <l>O hate, raile on, or this raile on, O hate:</l>
+                     <l>For ſpite of rayling <hi>I</hi> muſt it dedicate</l>
+                     <l>An Anſwer to thy theame although not ſo large,</l>
+                     <l>Will ſinke thy ſcullers boat, though't were a Barge,</l>
+                     <l>To halter up thy Muſe my Muſe begins,</l>
+                     <l>To truſſe the jade for breaking peoples ſhins.</l>
+                     <l>Remember when thou let'ſt the wine run tumbling downe,</l>
+                     <l>Thy rotten wine-pipe like a drunken clowne,</l>
+                     <l>But yet thy Lyon drunke could not defend thee,</l>
+                     <l>Although thy Ape drunke, makes ſome men commend thee,</l>
+                     <l>And thy tobacco is ſuch ſtinking stuffe,</l>
+                     <l>That thou know'ſt who cryed out enough, enough.</l>
+                  </q>
+               </p>
+               <closer>
+                  <salute>Farewell,</salute> 
+                  <signed>
+                     <hi>V. R.</hi> Heavenly <hi>K. R.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
